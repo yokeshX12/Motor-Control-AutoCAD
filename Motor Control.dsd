@@ -1,0 +1,64 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:SCHEMATIC01-SCHEMATIC]
+DWG=C:\Users\yokes\My Documents\AcadE 2026\AeData\proj\Motor Control\SCHEMATIC01.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\yokes\My Documents\AcadE 2026\AeData\proj\Motor Control\SCHEMATIC01.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:PANEL01-PANEL DRAWING]
+DWG=C:\Users\yokes\My Documents\AcadE 2026\AeData\proj\Motor Control\PANEL01.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\yokes\My Documents\AcadE 2026\AeData\proj\Motor Control\PANEL01.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\yokes\OneDrive\Documents\AutoCAD Sheet Sets\Motor Control.pdf
+OUT=C:\Users\yokes\OneDrive\Documents\
+PWD=
+[AcePublish]
+IncludeBookmarks=TRUE
+IncludeHyperlinks=TRUE
+ZoomFactor=50
+TempFolder=C:\Users\yokes\AppData\Local\Temp\AcePub_127402\
+OriginWdpPath=C:\Users\yokes\My Documents\AcadE 2026\AeData\proj\Motor Control\Motor Control.wdp
+OriginMdbPath=C:\Users\yokes\AppData\Roaming\Autodesk\AutoCAD Electrical 2026\R25.1\enu\Support\user\Motor Control.mdb
+TempWdpPath=C:\Users\yokes\AppData\Local\Temp\AcePub_127402\Motor Control.wdp
+TempMdbPath=C:\Users\yokes\AppData\Local\Temp\AcePub_127402\Motor Control.mdb
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADE>>
+CategoryName=
+LogFilePath=
+IncludeLayer=FALSE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
